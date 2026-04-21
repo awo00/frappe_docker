@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://github.com/awo00/erpnext",
+    "branch": "version-16"
+  },
+  {
+    "url": "https://github.com/awo00/hrms",
+    "branch": "version-16"
+  },
+  {
+    "url": "https://github.com/awo00/helpdesk",
+    "branch": "main"
+  }
+]
